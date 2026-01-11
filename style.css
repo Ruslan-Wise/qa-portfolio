@@ -1,0 +1,26 @@
+body {
+  margin: 0; 
+  padding: 20px 100px; 
+  background-color: #829e98;
+  font-family: "Montserrat", system-ui;
+  font-size: 20px;
+}
+#rz {
+  display: flex; 
+  align-items: center; 
+  justify-content: flex-start;
+  gap: 60px;
+}
+.textbloc {
+  display: flex; 
+  flex-direction: column; 
+  gap: 5px;
+}
+#about {
+  align-items: center;
+}
+.site-logo {
+  width: 180px;
+  height: auto;
+  filter: drop-shadow(0 0 12px #ff3c00);
+}
