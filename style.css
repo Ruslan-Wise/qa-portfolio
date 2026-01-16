@@ -5,36 +5,53 @@ body {
   font-family: "Montserrat", system-ui;
   font-size: 20px;
 }
+
 #rz {
   display: flex; 
   text-align: center; 
   justify-content: flex-left;
   gap: 50px;
 }
+
 .textbloc {
   display: flex; 
   flex-direction: column; 
   gap: 5px;
 }
+
 #about {
   text-align: center;
 }
+
 .site-logo {
   width: 180px;
   height: auto;
   filter: drop-shadow(0 0 12px #ff3c00);
 }
+
 .icons {
   display: flex; 
   justify-content: flex-start;
   gap: 80px;
 }
+
 .icbloc {
 display: flex;
 flex-direction: column; 
 align-items: center;
 }
+
 #portfolio {
   text-align: center;
 }
 
+#contacts .ic {
+  display: flex; 
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+  margin-top: 5px;
+}
+.footer {
+  text-align: center;
+}
