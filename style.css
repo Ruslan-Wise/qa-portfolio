@@ -3,7 +3,7 @@ body {
   font-size: 15px;
   line-height: 1.5;
   color: #222;
-  background-color: #8fe399;
+  background-color: #a5e2ac;
   max-width: 820px;
   margin: 0 auto; 
   padding: 32px 20px;   
@@ -121,5 +121,6 @@ a:hover {
   text-align: center;
   font-size: 13px;
   color: #666;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #0920ce;
+  background-color: #0f1175;
   }
