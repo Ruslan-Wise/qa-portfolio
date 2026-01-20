@@ -126,10 +126,10 @@ a:hover {
   }
 
   .gallery {
-  display: flex;           /* flex-контейнер */
-  flex-wrap: wrap;         /* щоб картинки переносились на новий рядок */
-  justify-content: center; /* ВСІ картинки по центру горизонтально */
-  gap: 20px;               /* відстань між картинками */
+  display: flex;           
+  flex-wrap: wrap;         
+  justify-content: center; 
+  gap: 20px;               
 }
 
 .skrin {
