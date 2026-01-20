@@ -124,3 +124,18 @@ a:hover {
   border-top: 1px solid #0920ce;
   background-color: #0f1175;
   }
+
+  .gallery {
+  display: flex;           /* flex-контейнер */
+  flex-wrap: wrap;         /* щоб картинки переносились на новий рядок */
+  justify-content: center; /* ВСІ картинки по центру горизонтально */
+  gap: 20px;               /* відстань між картинками */
+}
+
+.skrin {
+  width: 1200px;
+  height: auto;
+  object-fit: cover;
+  margin: 1px;
+  border-radius: 70px;
+}
