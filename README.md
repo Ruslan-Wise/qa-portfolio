@@ -46,7 +46,7 @@ You can view my live portfolio here:
 - Created test cases, checklists, bug reports  
 - API testing using Postman  
 
-[View project on GitHub](https://github.com/username/manual-qa-portfolio)
+[View project on GitHub](Ruslan-Wise?tab=repositories)
 
 ---
 
