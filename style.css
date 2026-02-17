@@ -146,6 +146,6 @@ a:hover {
   cursor: pointer;
 }
 
-.cert: active {
-  transform: scale(1.5);
+.cert:active {
+  transform: scale(2.0);
 }
