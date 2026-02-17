@@ -147,5 +147,5 @@ a:hover {
 }
 
 .cert:active {
-  transform: scale(15.0);
+  transform: scale(2.0);
 }
