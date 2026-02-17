@@ -139,3 +139,9 @@ a:hover {
   margin: 1px;
   border-radius: 70px;
 }
+
+.cert {
+  width: 200px;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
